@@ -16,7 +16,11 @@ The game mechanics are:
 
 ## Controllers
 
-![image](https://github.com/user-attachments/assets/a9c6240e-301b-4fad-81f7-adda767deb2a)
+- WASD: Move
+- Space: Jump
+- L-Shift: Dash
+- P: Pause
+- Mouse Left Click: Shoot
 
 ## Assets
 
