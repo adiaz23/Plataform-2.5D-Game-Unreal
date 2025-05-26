@@ -1,6 +1,8 @@
 # FrostBound 
 I developed a plataform game 2.5D where we are a soldier which is going through his final exam to graduate from the militia. The mission: pass a course with multiple obstacles in snowy desert where everythin is dangerous.
 
+![image](https://github.com/user-attachments/assets/ec1ae73d-976c-449e-9a32-ccbf5f8dbe8e)
+
 ## Mechanics
 
 The game mechanics are:
@@ -25,11 +27,12 @@ The game mechanics are:
 ## Assets
 
 - [Vanguard By T. Choonyung](https://www.mixamo.com/#/)
-- [Health Bar](https://github.com/Brackeys/Health-Bar/tree/master/Health%20Bar/Assets/Sprites)
+- [Health Bar](https://www.fab.com/listings/97219e91-3587-472c-a1ea-4232f0850468)
 - [Modular Scaffolding new/broken pack](https://www.fab.com/listings/257aa19f-d26a-4504-bf43-49311d118406)
 - [Type 1130 AA](https://www.fab.com/listings/f76fbb32-6baa-4898-9208-6c7c3171a74e)
 - [Championship trophy](https://www.fab.com/listings/9797ac9e-121a-42ac-9dea-1bdccd1c622d)
 - [Animation Starter Pack](https://www.fab.com/listings/98ff449d-79db-4f54-9303-75486c4fb9d9).
+- [Landscapes Pack](https://www.fab.com/listings/c6a8fa58-84f1-4bb8-935d-a3467e9fe58d)
 - [Sound machine gun sound by morganpurkis](https://pixabay.com/sound-effects/submachine-gun-79846/)
 - [Victory sound by honeybone82](https://pixabay.com/sound-effects/victory-96688/)
 - [Bullet Hit sound by coolguy244e](https://pixabay.com/sound-effects/bullet-hit-metal-84818/)
