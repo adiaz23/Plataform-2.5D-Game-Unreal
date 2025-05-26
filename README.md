@@ -1,5 +1,5 @@
 # FrostBound 
-I developed a plataform game 2.5D where we are a soldier which is going through his final exam to graduate from the militia. The mission: pass a course with multiple obstacles in snowy desert where everythin is dangerous.
+I developed a 2.5D platform game where you play as a soldier undergoing his final exam to graduate from the militia.. The mission: complete an obstacle course in a snowy desert where everything is dangerous.
 
 ![image](https://github.com/user-attachments/assets/ec1ae73d-976c-449e-9a32-ccbf5f8dbe8e)
 
@@ -7,14 +7,14 @@ I developed a plataform game 2.5D where we are a soldier which is going through 
 
 The game mechanics are:
 
-- A playable character which can move, jump, crouch, and shoot from the beginning.
+- A playable character that can move, jump, crouch, and shoot from the beginning.
 - Unlockable special moves: Dash and double jump.
 - Multiple static enemies.
-- Movables platforms.
-- Main, and pause menues.
-- Checkout points
-- A Save system which save the player position, and status of the special moves.
-- Sounds affects and particles effects.
+- Moving platforms.
+- Main and pause menus.
+- Checkpoints
+- A save system that stores the player's position and the status of unlocked special moves.
+- Sound and particle effects.
 
 ## Controllers
 
@@ -22,7 +22,7 @@ The game mechanics are:
 - Space: Jump
 - L-Shift: Dash
 - P: Pause
-- Mouse Left Click: Shoot
+- Left Mouse Button: Shoot: Shoot
 
 ## Assets
 
@@ -38,4 +38,4 @@ The game mechanics are:
 - [Bullet Hit sound by coolguy244e](https://pixabay.com/sound-effects/bullet-hit-metal-84818/)
 - [Male Hurt sound by micahlg](https://pixabay.com/es/sound-effects/male-hurt7-48124/)
 - Menu background generated with ChatGPT.
-- Game Icon generated with ChatGPT.
+- Game icon generated with ChatGPT.
